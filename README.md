@@ -1,4 +1,5 @@
-: Colon cancer is a type of cancer in the large intestine. It usually starts from noncancerous
+# Colon cancer detection using vision Transformers (ViT) and explainbale AI
+Colon cancer is a type of cancer in the large intestine. It usually starts from noncancerous
 growths called polyps. Symptoms include changes in bowel habits, blood in stool, and stomach pain.
 Histopathology is the field focused on diagnosing and studying tissue-related diseases by analyzing tissues
 and cells through a microscope. This paper introduces a method of identifying colon cancer from
